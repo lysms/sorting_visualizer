@@ -1,6 +1,3 @@
-
-
-
 import Visualizer from './Visualizer/Visualizer';
 import './App.css';
 
