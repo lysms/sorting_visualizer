@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
-        <h1>Sorting Visualizer Builder</h1>
+        {/* <h1>Sorting Visualizer Builder</h1> */}
         <Visualizer />
       </header>
     </div>

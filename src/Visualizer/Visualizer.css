@@ -1,0 +1,19 @@
+.container {
+  position: absolute;
+  left: 100px;
+}
+
+/* Find the dimwnsion of my screen and calculate it.  */
+.value_bars {
+  display: inline-block;
+  background-color: green;
+  width: 2px;
+  margin: 0 1px;
+}
+
+.generate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
